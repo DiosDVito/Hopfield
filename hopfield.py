@@ -1,5 +1,5 @@
-# Red Hopfield del ejemplo (patrones de 2 x 2).
-# Solo listas, for, while e if/else.
+#Daniel Esparza Arizpe - A01637076
+#Hopfield Activity
 
 n = 4
 x = [
